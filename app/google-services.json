@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832839136508",
+    "project_id": "voice-calling-sinch",
+    "storage_bucket": "voice-calling-sinch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832839136508:android:cd2813211f21581072d379",
+        "android_client_info": {
+          "package_name": "com.db.voicecallingsinch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832839136508-anghiq5ibejrsub19h2mihpehe8k9fd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.db.voicecallingsinch",
+            "certificate_hash": "677334b81146f7c39cfa9c49b3858de1825eb930"
+          }
+        },
+        {
+          "client_id": "832839136508-ue12qsidp1bpnic1ugdffj1argajr6ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk31sNyBMSMlBXO_Pgp8pEB96TDwZoS6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832839136508-ue12qsidp1bpnic1ugdffj1argajr6ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
