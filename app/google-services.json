@@ -22,6 +22,14 @@
           }
         },
         {
+          "client_id": "832839136508-i3ciml3pq9uiujaksq1sb2qg5pr2pdt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.db.voicecallingsinch",
+            "certificate_hash": "8c8b63f6f43173dc8673fd5e33effe887dbe3f59"
+          }
+        },
+        {
           "client_id": "832839136508-ue12qsidp1bpnic1ugdffj1argajr6ib.apps.googleusercontent.com",
           "client_type": 3
         }
